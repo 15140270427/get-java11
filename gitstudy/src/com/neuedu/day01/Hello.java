@@ -16,12 +16,12 @@ public class Hello {
 	       System.out.println("hello5");
 	        System.out.println("hello6");
 	        System.out.println("hello7");
-<<<<<<< HEAD
+
 	        System.out.println("hello8");
 	        
-=======
+
 	       System.out.println("hello9");
->>>>>>> branch 'master' of https://github.com/15140270427/get-java11.git
+
 
 	}
 	
